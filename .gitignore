@@ -4,3 +4,4 @@ node_modules/
 *.swo
 *~
 .vitepress/cache/
+.vitepress/dist/
